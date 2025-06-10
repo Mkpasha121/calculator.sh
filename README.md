@@ -40,7 +40,4 @@ A professional, modular shell script calculator.
 - `functions.sh`: Core calculator functions
 - `test_calculator.sh`: Test script for calculator functions
 
-## License
 
-MIT# calculator.sh
-A professional, modular Bash calculator script with basic arithmetic operations and tests.
